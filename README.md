@@ -4,7 +4,7 @@ Business Analytics graduate from BITS Pilani, curious about uncovering patterns 
 
 ---
 
-### **What I do**
+### 💼 **What I do**
 - Build scalable solutions using data science & analytics
 - Translate insights into actionable product strategies  
 - Drive impact across data, strategy, and product
