@@ -13,9 +13,9 @@ Business Analytics graduate from BITS Pilani, curious about uncovering patterns 
 ---
 
 ### 🛠️ **Tools & Tech**
-**Programming & Data Science:** Python 🐍, Java ☕, R 📊, SQL 🗄️  
-**Analytics & BI:** Excel 📈, Power BI 📉, Tableau 📊  
-**Cloud & Automation:** Azure Data Explorer ☁️, Power Automate ⚡
+**Programming & Data Science:** Python , Java , R , SQL , KQL   
+**Analytics & BI:** Excel , Power BI , Tableau   
+**Cloud & Automation:** Azure Data Explorer , Power Automate
 
 ---
 
