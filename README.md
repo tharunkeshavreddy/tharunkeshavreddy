@@ -42,13 +42,13 @@ _____
 _____
 ⚡ Fun facts About Me
 
-  ☕ Big tea person
+  - ☕ Big tea person
   
-  🍛 Huge Biryani lover from Hyderabad
+  - 🍛 Huge Biryani lover from Hyderabad
   
-  📺 Anime fan — Dragon Ball was my fist
+  - 📺 Anime fan — Dragon Ball was my fist
   
-  🛠️ I enjoy building simple, useful tools that everyone can understand
+  - 🛠️ I enjoy building simple, useful tools that everyone can understand
 
 _____
 📫 How to Reach Me
