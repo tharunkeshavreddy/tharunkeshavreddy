@@ -19,6 +19,8 @@ _____
   📈 Excel
   📉 Power BI
   📊 Tableau
+  ☁️ Azure Data Explorer (Kusto)
+  ⚡ Power Automate
 _____
 📚 Academic Focus Electives:
  
@@ -42,7 +44,7 @@ _____
 
   ☕ Big tea person
   
-  🍛 Huge Biryani fan from Hyderabad
+  🍛 Huge Biryani lover from Hyderabad
   
   📺 Anime fan — Dragon Ball was my fist
   
