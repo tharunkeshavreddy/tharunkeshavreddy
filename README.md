@@ -44,7 +44,7 @@ _____
   
   🍛 Huge Biryani fan from Hyderabad
   
-  📺 Anime fan — Dragon Ball is my fist
+  📺 Anime fan — Dragon Ball was my fist
   
   🛠️ I enjoy building simple, useful tools that everyone can understand
 
