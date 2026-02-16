@@ -1,57 +1,52 @@
-## Hi there 👋
-I'm Tharun Keshav Reddy 🎓
-A Business Analytics graduate from BITS Pilani – Pilani Campus.
+## Hi there 👋 I'm Tharun Keshav Reddy 🎓
+Business Analytics graduate from BITS Pilani, curious about uncovering patterns in data to solve business challenges and drive insights across products and analytics.
 
-I work primarily in Data Analytics & Business Intelligence 📊 — transforming complex datasets into structured insights that drive strategic decision-making.
-I’ve worked with organizations like LTM, Reliance, and Indiframe, contributing to data-driven initiatives and business impact 🚀.
 
-I’m deeply interested in Data Science & Product Development, where I focus on identifying patterns, building scalable analytical frameworks, and enabling smarter business decisions.
+---
 
-This is my fresh GitHub profile, where I share projects, experiments, and data-driven work that can create real impact.
-_____
+### **What I do**
+- Build scalable solutions using data science & analytics
+- Translate insights into actionable product strategies  
+- Drive impact across data, strategy, and product
+- Identify patterns within data to solve real-world business problems
 
-🛠️ Tools & Tech:
+---
 
-  🐍 Python
-  ☕ Java
-  📊 R Programming
-  🗄️ SQL
-  📈 Excel
-  📉 Power BI
-  📊 Tableau
-  ☁️ Azure Data Explorer (Kusto)
-  ⚡ Power Automate
-_____
-📚 Academic Focus Electives:
- 
-   Stats;
-   Predictive Analytics;
-   Finance Analytics;
-   Machine Learning;
-   Deep Learning;
-   Neural Networks;
-   NLP
-_____
-🚀 Currently Working On
+### 🛠️ **Tools & Tech**
+**Programming & Data Science:** Python 🐍, Java ☕, R 📊, SQL 🗄️  
+**Analytics & BI:** Excel 📈, Power BI 📉, Tableau 📊  
+**Cloud & Automation:** Azure Data Explorer ☁️, Power Automate ⚡
 
-  - Strengthening Data Science & ML capabilities
-  - Building analytics projects with real-world business use cases
-  - Developing product-focused analytical thinking
-  - Improving decision-making frameworks using data
+---
 
-_____
-⚡ Fun facts About Me
+### 📚 **Academic Focus / Electives**
+- Statistics  
+- Predictive Analytics  
+- Finance Analytics  
+- Machine Learning  
+- Deep Learning  
+- Neural Networks  
+- Natural Language Processing (NLP)
 
-  - ☕ Big tea person
-  
-  - 🍛 Huge Biryani lover from Hyderabad
-  
-  - 📺 Anime fan — Dragon Ball was my fist
-  
-  - 🛠️ I enjoy building simple, useful tools that everyone can understand
+---
 
-_____
-📫 How to Reach Me
+### 🚀 **Currently Working On**
+- Enhancing Data Science & ML capabilities  
+- Building analytics projects with real-world business use cases  
+- Developing product-focused analytical thinking  
+- Improving decision-making frameworks with data
+
+---
+
+### ⚡ **Fun Facts About Me**
+- ☕ Big tea lover  
+- 🍛 Huge Biryani fan from Hyderabad  
+- 📺 Anime enthusiast — Dragon Ball was my first  
+- 🛠️ I enjoy building simple, useful tools that everyone can understand
+
+---
+
+### 📫 **How to Reach Me**
 Email:h20240868@pilani.bits-pilani.ac.in
 
 
