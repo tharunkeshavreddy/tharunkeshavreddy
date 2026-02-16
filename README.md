@@ -1,16 +1,55 @@
 ## Hi there 👋
+I'm Tharun Keshav Reddy 🎓
+A Business Analytics graduate from BITS Pilani – Pilani Campus.
 
-<!--
-**tharunkeshavreddy/tharunkeshavreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work primarily in Data Analytics & Business Intelligence 📊 — transforming complex datasets into structured insights that drive strategic decision-making.
+I’ve worked with organizations like LTM, Reliance, and Indiframe, contributing to data-driven initiatives and business impact 🚀.
 
-Here are some ideas to get you started:
+I’m deeply interested in Data Science & Product Development, where I focus on identifying patterns, building scalable analytical frameworks, and enabling smarter business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my fresh GitHub profile, where I share projects, experiments, and data-driven work that can create real impact.
+_____
+
+🛠️ Tools & Tech:
+
+  🐍 Python
+  ☕ Java
+  📊 R Programming
+  🗄️ SQL
+  📈 Excel
+  📉 Power BI
+  📊 Tableau
+_____
+📚 Academic Focus Electives:
+ 
+   Stats;
+   Predictive Analytics;
+   Finance Analytics;
+   Machine Learning;
+   Deep Learning;
+   Neural Networks;
+   NLP
+_____
+🚀 Currently Working On
+
+  - Strengthening Data Science & ML capabilities
+  - Building analytics projects with real-world business use cases
+  - Developing product-focused analytical thinking
+  - Improving decision-making frameworks using data
+
+_____
+⚡ Fun facts About Me
+
+  ☕ Big tea person
+  
+  🍛 Huge Biryani fan from Hyderabad
+  
+  📺 Anime fan — Dragon Ball is my favorite
+  
+  🛠️ I enjoy building simple, useful tools that everyone can understand
+
+_____
+📫 How to Reach Me
+Email:h20240868@pilani.bits-pilani.ac.in
+
+
