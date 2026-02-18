@@ -41,8 +41,10 @@ Business Analytics graduate from BITS Pilani, curious about uncovering patterns 
 ### ⚡ **Fun Facts About Me**
 - ☕ Big tea lover  
 - 🍛 Huge Biryani fan from Hyderabad  
-- 📺 Anime enthusiast — Dragon Ball was my first  
+- 📺 Anime enthusiast — Dragon Ball was my first
+- 😎 Meme Maker – Spreading smiles, one meme at a time
 - 🛠️ I enjoy building simple, useful tools that everyone can understand
+
 
 ---
 
